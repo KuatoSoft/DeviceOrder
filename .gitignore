@@ -1,0 +1,14 @@
+# Build output
+*.exe
+*.pdb
+*.dll
+
+# Distribution folder
+/publish/
+
+# Windows / editor junk
+Thumbs.db
+desktop.ini
+.vs/
+*.user
+*.suo
